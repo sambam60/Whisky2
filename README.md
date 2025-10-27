@@ -13,7 +13,7 @@
 
 <img width="650" alt="Config" src="https://github.com/Whisky-App/Whisky/assets/42140194/d0a405e8-76ee-48f0-92b5-165d184a576b">
 
-Familiar UI that integrates seamlessly with macOS
+Liquid Glass UI that integrates seamlessly with macOS
 
 <div align="right">
   <img width="650" alt="New Bottle" src="https://github.com/Whisky-App/Whisky/assets/42140194/ed1a0d69-d8fb-442b-9330-6816ba8981ba">
