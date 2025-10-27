@@ -1,9 +1,9 @@
 <div align="center">
 
   # Whisky 2 🥃 
-  *Wine but much stronger - here for the second glass *
+  Wine but much stronger - here for the second glass 
   <div>
-      *Game Porting Toolkit 3 • Liquid Glass UI • Metal 4 • Crossover 25.1.1*
+      Game Porting Toolkit 3 • Liquid Glass UI • Metal 4 • Crossover 25.1.1
   </div>  
 </div>
 
