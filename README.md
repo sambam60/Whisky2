@@ -1,7 +1,7 @@
 <div align="center">
 
-  # Whisky 🥃 
-  *Wine but a bit stronger*
+  # Whisky 2 🥃 
+  *Wine but much stronger - here for the second glass *
   
   ![](https://img.shields.io/github/actions/workflow/status/IsaacMarovitz/Whisky/SwiftLint.yml?style=for-the-badge)
   [![](https://img.shields.io/discord/1115955071549702235?style=for-the-badge)](https://discord.gg/CsqAfs9CnM)
@@ -9,7 +9,7 @@
 
 ## Maintenance Notice
 
-[Whisky is no longer actively maintained](https://docs.getwhisky.app/maintenance-notice). Apps and games may break at any time.
+[Whisky 1 is no longer actively maintained](https://docs.getwhisky.app/maintenance-notice). Apps and games may break at any time.
 
 <img width="650" alt="Config" src="https://github.com/Whisky-App/Whisky/assets/42140194/d0a405e8-76ee-48f0-92b5-165d184a576b">
 
