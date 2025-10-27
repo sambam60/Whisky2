@@ -2,6 +2,8 @@
 
   # Whisky 2 🥃 
   *Wine but much stronger - here for the second glass *
+  *Game Porting Toolkit 3 • Liquid Glass UI • Metal 4 • Crossover 25.1.1*
+  
   
   ![](https://img.shields.io/github/actions/workflow/status/IsaacMarovitz/Whisky/SwiftLint.yml?style=for-the-badge)
   [![](https://img.shields.io/discord/1115955071549702235?style=for-the-badge)](https://discord.gg/CsqAfs9CnM)
@@ -27,7 +29,7 @@ Debug and profile with ease
 
 ---
 
-Whisky provides a clean and easy to use graphical wrapper for Wine built in native SwiftUI. You can make and manage bottles, install and run Windows apps and games, and unlock the full potential of your Mac with no technical knowledge required. Whisky is built on top of CrossOver 22.1.1, and Apple's own `Game Porting Toolkit`.
+Whisky provides a clean and easy to use graphical wrapper for Wine built in native SwiftUI. You can make and manage bottles, install and run Windows apps and games, and unlock the full potential of your Mac with no technical knowledge required. Whisky is built on top of CrossOver and Apple's own `Game Porting Toolkit`.
 
 Translated on [Crowdin](https://crowdin.com/project/whisky).
 
