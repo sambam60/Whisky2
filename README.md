@@ -5,9 +5,6 @@
   <div>
       *Game Porting Toolkit 3 • Liquid Glass UI • Metal 4 • Crossover 25.1.1*
   </div>  
-  
-  ![](https://img.shields.io/github/actions/workflow/status/IsaacMarovitz/Whisky/SwiftLint.yml?style=for-the-badge)
-  [![](https://img.shields.io/discord/1115955071549702235?style=for-the-badge)](https://discord.gg/CsqAfs9CnM)
 </div>
 
 ## Maintenance Notice
